@@ -169,7 +169,6 @@ const agregarProducto = (id) => {
 
 const alert = () => {
   Swal.fire({
-    text: 'comprobante de pago enviado',
     icon: 'success',
     timer: 1000
   })
